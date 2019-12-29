@@ -1,5 +1,11 @@
 package com.itheima.test;
 
+/**
+ * Person Entity
+ * 
+ * @author Ljh
+ * @version 1.0, 2019-12-29 13:27:47
+ */
 public class Person {
 
 	private Integer id;
